@@ -10,7 +10,7 @@ An end-to-end data analytics and visualization project designed to analyze globa
 ---
 
 ## 🏗️ Data Pipeline Architecture
-![Climate Scope Pipeline Architecture](path/to/pipeline_image.png)
+![Climate Scope Pipeline Architecture](Climate Scope.png)
 
 ---
 
