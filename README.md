@@ -36,6 +36,3 @@ An end-to-end data analytics and visualization project designed to analyze globa
 - **Executive Storytelling:** High-level KPI indicators and visual trends highlighting renewable energy transition and severe events.
 
 ---
-
-## 📄 License
-This project is created for academic and portfolio purposes.
